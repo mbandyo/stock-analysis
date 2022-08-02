@@ -4,5 +4,6 @@ The purpose of this project is to build an user friendly tool for analysis of st
 ## Analysis
 The return series data consists of daily data including openin price, closing price, trade volume, and intra dau high and low prices. The data is summarized in annual returns for the potential longer horizon investment. In any case, it is difficult to make an informed investment decision from daily data as daily volatilities are typically higher than longer term sustained volatility. Data for 2017 and 2018 are summarized as annual returns for selected green stocks for consideration. Following tables show the returns for 20217 and 2018:
 
-![Stock Returns 2017](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Stock%20Returns%202017.png) ![Stock Returns 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Stock%20Returns%202018.png)
-As is clear from the tables most stocks did well in 2017, but dismally in 2018. Esepecially the stock of interest DQ, posted highest returns in 2017, had the largest negative returns in 2018 in the list of selected stocks.
+![Stock Returns 2017](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Stock%20Returns%202017.png)    ![Stock Returns 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Stock%20Returns%202018.png)
+As is clear from the tables most stocks did well in 2017, but dismally in 2018. Esepecially the stock of interest DQ, posted highest returns in 2017, but had the largest negative returns in 2018 in the list of selected stocks. The analysis provides knowledge to potential investors to make informed decision
+## Results

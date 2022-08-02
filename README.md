@@ -1,1 +1,3 @@
-# stock-analysis
+# Stock Analysis Project
+## Description
+The purpose of this project is to build an user friendly tool for analysis of stocks for potential investment. It began with a limited scope to analyze return series of a single stock. However, the investor wanted to develop a comparison of the available stocks satisfying specific niche qualit,y in this case "green Stocks" i.e. environmentally responsible investments. The original analysis tool was designed to handle a small universe of such stocks and worked well for limited data. However, it was not optimized to analyze large datasets. So the code is enhanced (refactored) to otimize performance and analyze large dataset in reasonable time.

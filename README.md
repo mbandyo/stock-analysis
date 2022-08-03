@@ -10,6 +10,6 @@ The original unfactored code as well as the factored code provide the same resul
 ## Results
 The runtimes for the original code and factored code for 2017 and 2018 are shown below
 ### 2017:
-![Unfactored Code Run Time 2017](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Original%20Run%20Time%202017.png)![Factored Code Run Time 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Unfactored Code Run Time 2017]()![Factored Code Run Time 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ### 2018:
 ![Unfactored Code Run Time 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/Original%20Run%20Time%202018.png)![Factored Code Run Time 2018](https://github.com/mbandyo/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)

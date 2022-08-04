@@ -26,5 +26,5 @@ It is clear from the above that the run times were less for the refactored code 
 ## Summary
 Code refactoring has a number of advantages, but it should be carefully weighed as it can have some disadvantage also. In summary, refactoring efforts should be evaluated in terms of short and longer term investments before undertaking the effort. 
 Code refactoring benefits may not be immediate, and its advantages for business are not always obvious. However, in the long run, it will produce better code, as well as a calm, more productive work environment, and that makes the investment in such a work reasonable.
-tHowever, the cost of refactoring may higher than rewriting the code from scratch. Refactoring the code should not be implemented withoue the time to test the refactored code before release. It can introduce bugs. Also not all code can be advantageously refactored. 
-Before making the decision to refactor the code the above factors should be considered.
+However, the cost of refactoring may higher than rewriting the code from scratch. Refactoring the code should not be implemented without the time to test the refactored code before release. It can introduce bugs. Also not all code can be advantageously refactored. 
+Before making the decision to refactor code the above factors should be considered.
